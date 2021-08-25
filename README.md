@@ -9,7 +9,7 @@
 
 > This bot is used by more than 130,000 Discord users and more than 800 servers.
 
-Delta is a open source Discord bot coded in Python with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html).  
+Delta is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Features
